@@ -10,7 +10,8 @@
 
 <p1> Sichkar V. N. Effect of various dimension convolutional layer filters on traffic sign classification accuracy. Scientific and Technical Journal of Information Technologies, Mechanics and Optics, 2019, vol. 19, no. 3, pp. 546–552. DOI: 10.17586/2226-1494-2019-19-3-546-552 (Full-text available on ResearchGate here: Effect of various dimension convolutional layer filters on traffic sign classification accuracy </p1>
 
-#Example of detections on video are shown below. 
+# Example of detections on video are shown below. 
 
 https://user-images.githubusercontent.com/106025724/235175015-e3616768-94b6-4834-aa8f-2c65a29182c9.mp4
 
+<h5> contact here for dataset and all seungiri841@gmail.com </h5>
